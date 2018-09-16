@@ -21,6 +21,31 @@ git rm --cached index.html			remove掉添加的index.html
 git add *.html				上传所有某一类的
 git add .					上传所有
 git status	能够判断当前目录下的文件和git空间的文件是否一致
+git commit  能够进入提交的页面，主要是为了备注添加的信息，此时按下i就可以编辑
+	  编辑完毕后按下英文的:wq然后enter就退出了，也就提交成功了
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
